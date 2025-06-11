@@ -27,7 +27,7 @@ class Employee1 {
         e1.display();
         e2.display();
 
-        System.out.println("Total Embgghhgployees: " + totalEmployees);
+        System.out.println("Total Employees: " + totalEmployees);
         System.out.println("Total Salary Expense: " + totalSalaryExpense);
     }
 }
