@@ -18,7 +18,7 @@ class Book {
         b1.author = "James";
 
         Book b2 = new Book();
-        b2.title = "Python 101";
+        b2.title = "Python a101";
         b2.author = "Guido";
 
         b1.printBookInfo();
