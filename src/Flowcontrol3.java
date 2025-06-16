@@ -1,0 +1,12 @@
+import java.util.Scanner;
+ class DivBy3 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter n");
+        int n = sc.nextInt();
+        if (n % 3 == 0)
+            System.out.println(n + " is divisible by 3");
+        else
+            System.out.println(n + " is not divisible by 3");
+    }
+}
