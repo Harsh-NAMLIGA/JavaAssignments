@@ -1,0 +1,2 @@
+public class Arrayassignments2 {
+}
